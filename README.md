@@ -32,6 +32,7 @@ This involve exploring the bike data to answer key question, such as;
 - Which occupation uses bike the most?
 - Which Gender uses bike the most?
 - which marital status uses bike the most?
+- Whioch gender uses bike the most?
   
   ### Data Analysis
 We analysed the data using Pivot table in Excel.
