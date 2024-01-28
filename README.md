@@ -52,3 +52,5 @@ We analysed the data using Pivot table in Excel.
 - Invest in marketing and promotion activities for the adolecent age, educate them on the importance of owning a bike.
 - Implement a high customer segementation, that will target more consumers in North America
 
+### Limitation
+
