@@ -40,6 +40,8 @@ We analysed the data using Pivot table in Excel.
 - The middle age uses and purchases bike the most, followed by the old age. The adolecent age uses little or no bike at all.
 - Commuters within the distance range of 0-1 miles uses the most bikes. Commuters with more than 10 miles are the least bike users.
 - The male gender are the most bike users, though a good number of females uses bike too.
-- The professional skiled are the most users of bike. The manafgement and the skilled manual also have a good number of bike users. The manual are the least biked users.
+- The professional skilled are the most users of bike. The management and the skilled manual also have a good number of bike users. The manual are the least biked users.
 - It was discovered that the married also uses and purchased more bike than the single.
-- It wa discovered that females with Bachelors education purchased more bike than their male counterparts and most of them commute distance of 0-10 miles. In terms of Graduate degree, male purchased more bike than their female counterparts. High school educationvhas more bike users, it was also discovered that those that those commute between 5-10 miles purchases the least amount of bikes. Partial college also have more male bike users and a large number of commute between 0-1 miles don't use or purchase bike.    
+- It wa discovered that females with Bachelors education purchased more bike than their male counterparts and most of them commute distance of 0-10 miles. In terms of Graduate degree, male purchased more bike than their female counterparts. High school educationvhas more bike users, it was also discovered that those that those commute between 5-10 miles purchases the least amount of bikes. Partial college also have more male bike users and a large number of commute between 0-1 miles don't use or purchase bike.
+- North America is the region with the most bike users and Europe is the rfegion with the least bike users. 
+
