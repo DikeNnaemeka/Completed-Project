@@ -25,13 +25,13 @@ This data analysis project aim to provide insights into the general usage of bik
 [Dashboard 2](Capture2.PNG)
 ![Capture2](https://github.com/DikeNnaemeka/Completed-Project/assets/157447574/94053714-8b66-4414-b5ed-3f17656e7cd5)
 
-[Pivot Table](Capture-4.PNG)
+[Pivot Table](Capture4.PNG)
 ![Capture 4](https://github.com/DikeNnaemeka/Completed-Project/assets/157447574/22bbd101-f0ee-4c1e-bc4d-6c54ba9e71bc)
 
 [Working Sheet](Capture.PNG)
 ![Capture](https://github.com/DikeNnaemeka/Completed-Project/assets/157447574/ae3e613d-0b1d-481d-834f-94d987cee9ee)
 
-[The raw file](Capture-1.PNG)
+[The raw file](Capture1.PNG)
 ![Capture 1](https://github.com/DikeNnaemeka/Completed-Project/assets/157447574/d89b6fbd-c03a-478c-abae-7e2840bc1db6)
 
 ### Data Source
