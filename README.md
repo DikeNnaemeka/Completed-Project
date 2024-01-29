@@ -5,6 +5,10 @@
 This data analysis project aim to provide insights into the general usage of bike. This is done by analysing different aspect (Age range, Occupation, Income, Commute distance,Gender, Marital Status etc). We seek to identify trends, patterns and also make data driven recommendation.
 
 
+![Capture3](https://github.com/DikeNnaemeka/Completed-Project/assets/157447574/ecb7e222-db51-4654-9049-b8e85a3b9586)
+
+
+
 ### Data Source
 
 The primary data used for this analysis is "bike_data.xlsx" file. It comprises of detailed information used for the analysis.
