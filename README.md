@@ -16,6 +16,7 @@
 
 
 ### Project Overview
+---
 
 This data analysis project aim to provide insights into the general usage of bike. This is done by analysing different aspect (Age range, Occupation, Income, Commute distance,Gender, Marital Status etc). We seek to identify trends, patterns and also make data driven recommendation.
 
@@ -36,16 +37,19 @@ This data analysis project aim to provide insights into the general usage of bik
 
 
 ### Data Source
+---
 
 The primary data used for this analysis is "bike_data.xlsx" file. It comprises of detailed information used for the analysis.
 
-### Tools 
+### Tools
+---
 
 - Excel (Data Cleaning/Preparation)
 - Excel (Data Analysis)
 - Excel (Creating report/Visualization)
 
 ### Data Cleaning and Preparation
+---
 
 In the initial data preparation phase, we completed the following task;
  1. Data loading and inspection
@@ -55,6 +59,7 @@ In the initial data preparation phase, we completed the following task;
  5. Use the Replace and Find Function
 
 ### Exploratory Data Analysis
+---
 
 This involve exploring the bike data to answer key question, such as;
 
@@ -65,9 +70,12 @@ This involve exploring the bike data to answer key question, such as;
 - Whioch gender uses bike the most?
   
   ### Data Analysis
+  ---
 We analysed the data using Pivot table in Excel.
   
    ### Results and Findings
+   ---
+   
 - The middle age uses and purchases bike the most, followed by the old age. The adolecent age uses little or no bike at all.
 - Commuters within the distance range of 0-1 miles uses the most bikes. Commuters with more than 10 miles are the least bike users.
 - The male gender are the most bike users, though a good number of females uses bike too.
@@ -77,6 +85,7 @@ We analysed the data using Pivot table in Excel.
 - North America is the region with the most bike users and Europe is the rfegion with the least bike users.
 
   ### Recommendation
+  ---
   Based on the analysis, we recommend the following actions;
 
 - Invest in more bikes made for the middle class
@@ -84,10 +93,12 @@ We analysed the data using Pivot table in Excel.
 - Implement a high customer segementation, that will target more consumers in North America
 
 ### Limitation
+---
 
 I had to group the ages into ranges using the IF statement in Excel because, they would have affected the accuracy of my conclusion frpm my analysis.
 
 ### References
+---
 
 There are no references
 
