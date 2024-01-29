@@ -1,5 +1,20 @@
 # Bike Commute Project
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendation](#recommendation)
+- [Limitation](#limitation)
+- [References](#references)
+
+
+
 ### Project Overview
 
 This data analysis project aim to provide insights into the general usage of bike. This is done by analysing different aspect (Age range, Occupation, Income, Commute distance,Gender, Marital Status etc). We seek to identify trends, patterns and also make data driven recommendation.
@@ -19,7 +34,7 @@ The primary data used for this analysis is "bike_data.xlsx" file. It comprises o
 - Excel (Data Analysis)
 - Excel (Creating report/Visualization)
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the initial data preparation phase, we completed the following task;
  1. Data loading and inspection
@@ -41,7 +56,7 @@ This involve exploring the bike data to answer key question, such as;
   ### Data Analysis
 We analysed the data using Pivot table in Excel.
   
-   ### Results/Findings
+   ### Results and Findings
 - The middle age uses and purchases bike the most, followed by the old age. The adolecent age uses little or no bike at all.
 - Commuters within the distance range of 0-1 miles uses the most bikes. Commuters with more than 10 miles are the least bike users.
 - The male gender are the most bike users, though a good number of females uses bike too.
