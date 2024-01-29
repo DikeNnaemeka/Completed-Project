@@ -95,7 +95,7 @@ We analysed the data using Pivot table in Excel.
 ### Limitation
 ---
 
-I had to group the ages into ranges using the IF statement in Excel because, they would have affected the accuracy of my conclusion frpm my analysis.
+I had to group the ages into ranges using the IF statement in Excel because, they would have affected the accuracy of my conclusion from my analysis.
 
 ### References
 ---
