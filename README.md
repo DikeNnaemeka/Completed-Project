@@ -9,8 +9,8 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#results-and-findings)
-- [Recommendation](#recommendation)
-- [Limitation](#limitation)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 - [References](#references)
 
 
@@ -84,7 +84,7 @@ We analysed the data using Pivot table in Excel.
 - It wa discovered that females with Bachelors education purchased more bike than their male counterparts and most of them commute distance of 0-10 miles. In terms of Graduate degree, male purchased more bike than their female counterparts. High school educationvhas more bike users, it was also discovered that those that those commute between 5-10 miles purchases the least amount of bikes. Partial college also have more male bike users and a large number of commute between 0-1 miles don't use or purchase bike.
 - North America is the region with the most bike users and Europe is the rfegion with the least bike users.
 
-  ### Recommendation
+  ### Recommendations
   ---
   Based on the analysis, we recommend the following actions;
 
@@ -92,7 +92,7 @@ We analysed the data using Pivot table in Excel.
 - Invest in marketing and promotion activities for the adolecent age, educate them on the importance of owning a bike.
 - Implement a high customer segementation, that will target more consumers in North America
 
-### Limitation
+### Limitations
 ---
 
 I had to group the ages into ranges using the IF statement in Excel because, they would have affected the accuracy of my conclusion from my analysis.
